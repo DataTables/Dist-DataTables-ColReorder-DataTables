@@ -5,6 +5,7 @@
     "files": [
         "css/colReorder.dataTables.css"
     ],
+    "style": "css/colReorder.dataTables.css",
     "keywords": [
         "reorder",
         "DataTables",
