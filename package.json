@@ -3,7 +3,7 @@
     "version": "1.4.0",
     "description": "ColReorder for DataTables ",
     "files": [
-        "css/colReorder.dataTables.css"
+        "css/**/*.css"
     ],
     "style": "css/colReorder.dataTables.css",
     "keywords": [
