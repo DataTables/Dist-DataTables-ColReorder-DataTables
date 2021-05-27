@@ -1,34 +1,46 @@
 {
     "name": "datatables.net-colreorder-dt",
+    "description": "ColReorder for DataTables with styling for [DataTables](https://datatables.net/)",
+    "main": "js/colReorder.dataTables.js",
+    "style": "css/colReorder.dataTables.css",
     "version": "1.5.3",
-    "description": "ColReorder for DataTables ",
     "files": [
         "css/**/*.css",
         "js/**/*.js"
     ],
-    "style": "css/colReorder.dataTables.css",
     "keywords": [
-        "reorder",
-        "DataTables",
+        "ColReorder",
+ "Reorder",
+                "Datatables",
         "jQuery",
         "table",
-        "DataTables"
+        "filter",
+        "sort"
     ],
-    "homepage": "https://datatables.net",
-    "bugs": "https://datatables.net/forums",
-    "license": "MIT",
+    "dependencies": {
+        "datatables.net-colreorder": ">=1.5.3",
+        "datatables.net-dt": ">=1.10.24",
+        "jquery": ">=1.7"
+    },
+    "moduleType": [
+        "globals",
+        "amd",
+        "node"
+    ],
+    "ignore": [
+        "composer.json",
+        "datatables.json",
+        "package.json"
+    ],
     "author": {
         "name": "SpryMedia Ltd",
         "url": "http://datatables.net"
     },
-    "dependencies": {
-        "jquery": ">=1.7",
-        "datatables.net-dt": "^1.10.15",
-        "datatables.net-colreorder": "1.5.3"
-    },
+    "homepage": "https://datatables.net",
+    "bugs": "https://datatables.net/forums",
+    "license": "MIT",
     "repository": {
         "type": "git",
         "url": "https://github.com/DataTables/Dist-DataTables-ColReorder-DataTables.git"
-    },
-    "main": "js/colReorder.dataTables.js"
+    }
 }
