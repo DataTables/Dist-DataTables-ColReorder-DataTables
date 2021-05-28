@@ -19,7 +19,7 @@ npm install datatables.net-colreorder-dt
 
 ```
 var $ = require( 'jquery' );
-var dt = require( 'datatables.net-colreorder-dt}' )( window, $ );
+var dt = require( 'datatables.net-colreorder-dt' )( window, $ );
 ```
 
 ### bower
