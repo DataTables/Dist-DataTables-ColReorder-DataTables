@@ -3,6 +3,7 @@
     "description": "ColReorder for DataTables with styling for [DataTables](https://datatables.net/)",
     "main": "js/colReorder.dataTables.js",
     "style": "css/colReorder.dataTables.css",
+    "types": "./types/colReorder.dataTables.d.ts",
     "version": "1.5.3",
     "files": [
         "css/**/*.css",
