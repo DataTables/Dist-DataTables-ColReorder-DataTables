@@ -4,15 +4,15 @@
     "main": "js/colReorder.dataTables.js",
     "style": "css/colReorder.dataTables.css",
     "types": "./types/colReorder.dataTables.d.ts",
-    "version": "1.5.3",
+    "version": "1.5.4",
     "files": [
         "css/**/*.css",
         "js/**/*.js"
     ],
     "keywords": [
         "ColReorder",
- "Reorder",
-                "Datatables",
+        "Reorder",
+        "Datatables",
         "jQuery",
         "table",
         "filter",
