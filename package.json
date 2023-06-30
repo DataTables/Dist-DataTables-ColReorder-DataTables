@@ -4,7 +4,7 @@
     "main": "js/colReorder.dataTables.js",
     "module": "js/colReorder.dataTables.mjs",
     "style": "css/colReorder.dataTables.css",
-    "types": "./types/types.d.ts",
+    "types": "./types/colReorder.dataTables.d.ts",
     "version": "1.6.2",
     "files": [
         "css/**/*.css",
@@ -14,16 +14,16 @@
     ],
     "keywords": [
         "ColReorder",
-        "Reorder",
-        "Datatables",
+ "Reorder",
+                "Datatables",
         "jQuery",
         "table",
         "filter",
         "sort"
     ],
     "dependencies": {
-        "datatables.net-colreorder": ">=1.5.6",
-        "datatables.net-dt": ">=1.12.1",
+        "datatables.net-colreorder": ">=1.6.2",
+        "datatables.net-dt": ">=1.13.4",
         "jquery": ">=1.7"
     },
     "moduleType": [
