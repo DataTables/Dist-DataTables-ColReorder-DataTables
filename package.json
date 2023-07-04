@@ -5,7 +5,7 @@
     "module": "js/colReorder.dataTables.mjs",
     "style": "css/colReorder.dataTables.css",
     "types": "./types/colReorder.dataTables.d.ts",
-    "version": "1.6.2",
+    "version": "1.7.0",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
@@ -14,8 +14,8 @@
     ],
     "keywords": [
         "ColReorder",
- "Reorder",
-                "Datatables",
+        "Reorder",
+        "Datatables",
         "jQuery",
         "table",
         "filter",
