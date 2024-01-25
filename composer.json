@@ -1,5 +1,4 @@
 {
-    "version": "1.5.6",
     "name": "datatables.net/datatables.net-colreorder-dt",
     "description": "ColReorder allows the end user to modify the column order of a table through drop-and-drag of column headers. This is ColReorder for DataTables with styling for [DataTables](https://datatables.net/)",
     "support": {
@@ -20,8 +19,8 @@
     "minimum-stability": "dev",
     "keywords": [
         "ColReorder",
- "Reorder",
-                "Datatables",
+        "Reorder",
+        "Datatables",
         "jQuery",
         "table"
     ],
